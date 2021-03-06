@@ -9,7 +9,7 @@ GoIndex Plus
 
 ## 预览
 
-Demo: https://dl.cee.cx
+Demo: https://dl.cee.workers.dev/
 
 
 ## 更新日志
